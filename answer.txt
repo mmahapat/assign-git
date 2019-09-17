@@ -33,7 +33,7 @@ hs_err_pid*
 
 • Why should you have different branches?
   In a group work environment,it is quite common for several people to work on the same piece of source.For Ex:
-  In a developer environment some will be fixing bugs,implementing new features,etc.Branching provides a system for       managing different versions of the code base.
+  In a developer environment some will be fixing bugs,implementing new features,etc.Branching provides a system for             managing different versions of the code base.
 
 • In a project how many remote Git repositories do you usually have?
   In a large Project we can have more than 1 remote branches but only 1 origin.
