@@ -36,4 +36,4 @@ hs_err_pid*
   In a developer environment some will be fixing bugs,implementing new features,etc.Branching provides a system for       managing different versions of the code base.
 
 • In a project how many remote Git repositories do you usually have?
-  We usually have 1 remote Git repository with multiple branches.
+  In a large Project we can have more than 1 remote branches but only 1 origin.
